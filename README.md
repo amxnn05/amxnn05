@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **amanbora9759345011@gmail.com**
 
-- ⚡ Fun fact **I want to learn everything :)**
+- ⚡ **Jack Of All Traid :)**
 
 
 
