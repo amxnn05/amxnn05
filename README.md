@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **amxnn05/amxnn05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <p align="center">
   💻 Full-Stack Developer | 🚀 Open Source Enthusiast | 🎨 UI/UX Explorer
 </p>
-
+<!--
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,nextjs,html,css,tailwind,express,mongodb,postgres,python,git,linux,docker,vscode" />
 </p>
-
+-->
 ---
 
 ### 🧠 About Me
