@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Aman</h1>
-💭 Currently learning about data data science and machine learning (https://pudding.cool/2018/08/pockets/)!<br/>
+💭 Currently learning about data data science and machine learning <br/>
 
 
