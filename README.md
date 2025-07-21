@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **amanbora9759345011@gmail.com**
 
-- ⚡ **Jack Of All Traid :)**
+- ⚡ **Jack of all trades master of none :)**
 
 
 
