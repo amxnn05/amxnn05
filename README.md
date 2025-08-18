@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Science & ML**
 
 - 📫 How to reach me **amanbora9759345011@gmail.com**
 
