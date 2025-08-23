@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **amanbora9759345011@gmail.com**
 
-- ⚡ **Grinding..**
+- ⚡ **Maybe the best i can do is exploring.**
 
 
 
