@@ -18,7 +18,7 @@
 
 
 
-<h3 align="center">Languages and Tools:</h3>
-<h4 align="center"> C++ㅤㅤΞㅤㅤPythonㅤㅤΞㅤㅤJavaScriptㅤㅤΞㅤㅤPandasㅤㅤΞㅤㅤNumPyㅤㅤΞㅤㅤScikit learn </h4>
+<h3 align="left">Languages and Tools:</h3>
+<h4 align="left"> C++ㅤㅤΞㅤㅤPythonㅤㅤΞㅤㅤJavaScriptㅤㅤΞㅤㅤPandasㅤㅤΞㅤㅤNumPyㅤㅤΞㅤㅤScikit learn </h4>
   
 </p>
