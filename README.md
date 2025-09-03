@@ -10,9 +10,9 @@
 ```
 </div >
 
-- 🌱 I’m currently learning **Data Science & ML**
+- I’m currently learning **Data Science & ML**
 
-- 📫 How to reach me **amanbora9759345011@gmail.com**
+- How to reach me **amanbora9759345011@gmail.com**
 
 -  **Maybe the best i can do is exploring.**
 
