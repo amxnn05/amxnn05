@@ -10,7 +10,7 @@
 ```
 </div >
 
-- A bit interested in **Data Science & AI/ML, Web-3**
+- A bit interested in **Data Science & Ai/Ml, Web-3**
 
 - How to reach me **amanbora9759345011@gmail.com**
 
