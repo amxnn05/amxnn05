@@ -10,7 +10,7 @@
 ```
 </div >
 
-- I’m currently learning **Data Science & ML**
+- A bit interested in **Data Science & AI/ML, Web-3**
 
 - How to reach me **amanbora9759345011@gmail.com**
 
