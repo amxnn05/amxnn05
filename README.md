@@ -22,3 +22,9 @@
 <h5 align="left"> C++ㅤㅤΞㅤㅤPythonㅤㅤΞㅤㅤJavaScript/TypeScriptㅤㅤΞㅤㅤNodejsㅤㅤΞㅤㅤReactㅤㅤΞㅤㅤPandasㅤㅤΞㅤㅤNumPyㅤㅤΞㅤㅤScikit learn</h5>
   
 </p>
+
+
+### **GitHub Stats & Contributions:**
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amxnn05&theme=github_dark) ![Contribution Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amxnn05&theme=github_dark)
+
+
