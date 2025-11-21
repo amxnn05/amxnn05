@@ -25,7 +25,7 @@
 
 
 ### **GitHub Stats & Contributions:**
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=amxnn05&theme=github_dark) ![Top languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=amxnn05&theme=github_dark)
+!![GitHub Stats](https://github-readme-stats.vercel.app/api?username=amxnn05&show_icons=true&count_private=true&theme=react) ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amxnn05&layout=compact&theme=react)
 ![Contribution Graph](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amxnn05&theme=github_dark)
 
 
