@@ -14,7 +14,6 @@
 
 - How to reach me **amanbora9759345011@gmail.com**
 
--  **Maybe the best i can do is exploring.**
 
 
 
