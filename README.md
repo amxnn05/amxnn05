@@ -1,7 +1,7 @@
 <!-- Banner -->
-<div align="center" >
+<!-- <div align="center" >
  <img width="700" height="200" src="./assets/banner1.jpeg" alt="Banner"/>
-</div>
+</div> -->
 <div align="center">
     <h1>Hey, I'm Aman </h1>
 </div >
