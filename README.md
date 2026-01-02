@@ -13,5 +13,5 @@
 <img src="./assets/_.gif" height="100" />
 <br><br>
     
-[![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/ingridrosselis)
+[![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/aman-singh-bora-2075b0380)
 </div>
