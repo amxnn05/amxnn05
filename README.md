@@ -3,7 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=&weight=800&pause=1&center=true&vCenter=true&repeat=false&width=435&lines=Hiii%2C+I'm+Aman" width="70%" />
 <br><br>
 <pre>
-    Working with neural nets
+    Working on Web
     <b> </b>
     <b>Languages & Frameworks</b>
     C++ • Python • JavaScript • TypeScript • React • Numpy/Pandas • Scikit Learn
