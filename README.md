@@ -1,19 +1,7 @@
-<div align="center">
-<img src="./assets/banner.jpeg" width="25%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=&weight=800&pause=1&center=true&vCenter=true&repeat=false&width=435&lines=Hiii%2C+I'm+Aman" width="70%" />
-<br><br>
-<pre>
-    Working on Web
-    <b> </b>
-    <b>Languages & Frameworks</b>
-    C++ • Python • JavaScript • TypeScript • React • Numpy/Pandas • Scikit Learn
-   
-</pre>
- <b> I usually do fullstack stuff + training models </b>
+<div >
+<p>Hey, i'm aman </p>
   
 <br>
 <img src="./assets/_.gif" height="100" />
 <br><br>
-    
-[![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/aman-singh-bora-2075b0380)
 </div>
